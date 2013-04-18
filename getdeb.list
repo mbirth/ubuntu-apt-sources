@@ -1,0 +1,3 @@
+# getdeb / playdeb
+deb http://archive.getdeb.net/ubuntu natty-getdeb apps games
+deb http://archive.getdeb.net/ubuntu natty-getdeb-testing apps games

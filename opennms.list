@@ -1,0 +1,4 @@
+deb http://debian.opennms.org stable main
+deb-src http://debian.opennms.org stable main
+# deb http://debian.opennms.org unstable main
+# deb-src http://debian.opennms.org unstable main
