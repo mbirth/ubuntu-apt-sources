@@ -1,0 +1,4 @@
+deb http://ppa.launchpad.net/nuvola-player-builders/unstable/ubuntu quantal main
+deb http://ppa.launchpad.net/nuvola-player-builders/stable/ubuntu quantal main
+# deb http://ppa.launchpad.net/nuvola-player-builders/candidate/ubuntu precise main
+deb http://ppa.launchpad.net/nuvola-player-builders/bugfix/ubuntu precise main

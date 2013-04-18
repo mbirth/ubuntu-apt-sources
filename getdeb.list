@@ -1,6 +1,9 @@
-# getdeb / playdeb
-# deb http://archive.getdeb.net/ubuntu oneiric-getdeb apps games
-# deb http://archive.getdeb.net/ubuntu oneiric-getdeb-testing apps games
+# Key: wget -q -O- http://archive.getdeb.net/getdeb-archive.key | sudo apt-key add -
 
-deb http://archive.getdeb.net/ubuntu precise-getdeb apps games
-deb http://archive.getdeb.net/ubuntu precise-getdeb-testing apps games
+# getdeb / playdeb
+deb http://archive.getdeb.net/ubuntu quantal-getdeb apps games
+deb http://archive.getdeb.net/ubuntu quantal-getdeb-testing apps games
+
+# GetDeb/PlayDeb Mirrors
+#deb http://mirrors.dotsrc.org/getdeb/ubuntu quantal-getdeb apps games
+#deb http://mirrors.dotsrc.org/getdeb/ubuntu quantal-getdeb-testing apps games

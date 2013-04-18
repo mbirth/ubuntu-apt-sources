@@ -1,4 +1,4 @@
 # Key: EEF818CF
 # NOT WORKING: non-free
-deb http://debian.scribus.net/debian/ precise main
-# deb http://debian.tagancha.org/debian/ precise main
+deb http://debian.scribus.net/debian/ quantal main
+# deb http://debian.tagancha.org/debian/ quantal main
