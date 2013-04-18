@@ -1,0 +1,4 @@
+deb http://ppa.launchpad.net/nuvola-player-builders/unstable/ubuntu oneiric main
+deb http://ppa.launchpad.net/nuvola-player-builders/stable/ubuntu oneiric main
+#deb http://ppa.launchpad.net/nuvola-player-builders/candidate/ubuntu oneiric main
+deb http://ppa.launchpad.net/nuvola-player-builders/bugfix/ubuntu oneiric main

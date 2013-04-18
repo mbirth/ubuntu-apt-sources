@@ -1,4 +1,4 @@
 # Key: EEF818CF
-# non-free doesn't work
-deb http://debian.scribus.net/debian/ natty main
-deb http://debian.tagancha.org/debian/ natty main
+# DOESN'T WORK: non-free
+deb http://debian.scribus.net/debian/ oneiric main
+deb http://debian.tagancha.org/debian/ oneiric main
