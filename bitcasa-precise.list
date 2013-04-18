@@ -1,3 +1,0 @@
-# wget -O- http://dist.bitcasa.com/release/bitcasa-releases.gpg.key | sudo apt-key add -
-deb http://dist.bitcasa.com/release/ubuntu precise main
-

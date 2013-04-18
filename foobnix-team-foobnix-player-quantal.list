@@ -1,2 +1,2 @@
 deb http://ppa.launchpad.net/foobnix-team/foobnix-player/ubuntu quantal main
-#deb-src http://ppa.launchpad.net/foobnix-team/foobnix-player/ubuntu quantal main
+# deb-src http://ppa.launchpad.net/foobnix-team/foobnix-player/ubuntu quantal main
