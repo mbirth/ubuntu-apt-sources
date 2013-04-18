@@ -1,2 +1,2 @@
-deb http://apt.duke4.net oneiric main
+deb http://apt.duke4.net precise main
 # deb-src http://apt.duke4.net oneiric main

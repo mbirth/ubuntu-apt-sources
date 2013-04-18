@@ -1,4 +1,4 @@
 # Key: EEF818CF
-# DOESN'T WORK: non-free
-deb http://debian.scribus.net/debian/ oneiric main
-deb http://debian.tagancha.org/debian/ oneiric main
+# NOT WORKING: non-free
+deb http://debian.scribus.net/debian/ precise main
+# deb http://debian.tagancha.org/debian/ precise main
