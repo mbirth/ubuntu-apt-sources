@@ -1,0 +1,4 @@
+deb http://ppa.launchpad.net/nuvola-player-builders/unstable/ubuntu saucy main
+deb http://ppa.launchpad.net/nuvola-player-builders/stable/ubuntu saucy main
+# deb http://ppa.launchpad.net/nuvola-player-builders/candidate/ubuntu saucy main
+deb http://ppa.launchpad.net/nuvola-player-builders/bugfix/ubuntu raring main
