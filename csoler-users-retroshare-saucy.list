@@ -1,0 +1,3 @@
+deb http://ppa.launchpad.net/csoler-users/retroshare/ubuntu raring main
+deb http://ppa.launchpad.net/csoler-users/retroshare-snapshots/ubuntu saucy main
+# deb-src http://ppa.launchpad.net/csoler-users/retroshare/ubuntu saucy main
