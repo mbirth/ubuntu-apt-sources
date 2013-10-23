@@ -1,3 +1,3 @@
 # wget -q http://josm.openstreetmap.de/josm-apt.key -O- | sudo apt-key add -
-deb http://josm.openstreetmap.de/apt raring universe
+deb http://josm.openstreetmap.de/apt saucy universe
 
