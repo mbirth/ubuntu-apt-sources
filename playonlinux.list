@@ -1,0 +1,3 @@
+# wget -q "http://deb.playonlinux.com/public.gpg" -O- | sudo apt-key add -
+deb http://deb.playonlinux.com/ quantal main
+
