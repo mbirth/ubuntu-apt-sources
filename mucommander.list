@@ -1,4 +1,0 @@
-# muCommander
-# Get key: wget -O - http://apt.mucommander.com/apt.key | apt-key add -
-deb http://apt.mucommander.com stable main non-free contrib
-deb http://apt.mucommander.com unstable main non-free contrib
