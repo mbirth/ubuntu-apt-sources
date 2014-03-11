@@ -1,0 +1,3 @@
+# Key: wget http://debian.yacy.net/yacy_orbiter_key.asc -O- | sudo apt-key add -
+deb http://debian.yacy.net ./
+
