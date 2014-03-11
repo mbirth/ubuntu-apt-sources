@@ -1,2 +1,0 @@
-# wget http://prosody.im/files/prosody-debian-packages.key -O- | sudo apt-key add -
-deb http://packages.prosody.im/debian saucy main
