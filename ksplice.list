@@ -1,0 +1,3 @@
+# wget -N https://www.ksplice.com/apt/ksplice-archive.asc -O - | sudo apt-key add -
+deb http://www.ksplice.com/apt trusty ksplice
+#deb-src http://www.ksplice.com/apt trusty ksplice
