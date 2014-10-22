@@ -1,5 +1,5 @@
 # wget -O - https://d2t3ff60b2tol4.cloudfront.net/services@insynchq.com.gpg.key | sudo apt-key add -
-deb http://apt.insynchq.com/ubuntu trusty non-free
+deb http://apt.insynchq.com/ubuntu utopic non-free
 
 #deb http://ppa.launchpad.net/gwendal-lebihan-dev/cinnamon-stable/ubuntu saucy main
 
