@@ -1,0 +1,4 @@
+deb http://ppa.launchpad.net/nuvola-player-builders/unstable/ubuntu utopic main
+deb http://ppa.launchpad.net/nuvola-player-builders/stable/ubuntu utopic main
+# deb http://ppa.launchpad.net/nuvola-player-builders/candidate/ubuntu utopic main
+# deb http://ppa.launchpad.net/nuvola-player-builders/bugfix/ubuntu utopic main
