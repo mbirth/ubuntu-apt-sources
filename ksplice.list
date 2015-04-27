@@ -1,3 +1,3 @@
 # wget -N https://www.ksplice.com/apt/ksplice-archive.asc -O - | sudo apt-key add -
-deb http://www.ksplice.com/apt utopic ksplice
-#deb-src http://www.ksplice.com/apt utopic ksplice
+deb http://www.ksplice.com/apt vivid ksplice
+#deb-src http://www.ksplice.com/apt vivid ksplice
