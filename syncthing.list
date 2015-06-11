@@ -1,0 +1,3 @@
+# curl -s https://syncthing.net/release-key.txt | sudo apt-key add -
+deb http://apt.syncthing.net/ syncthing release
+
