@@ -1,2 +1,2 @@
-# sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 4E9CFF4E
+# sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys D2C19886
 deb http://repository.spotify.com stable non-free
