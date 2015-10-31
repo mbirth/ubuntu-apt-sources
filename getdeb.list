@@ -1,11 +1,11 @@
 # Key: wget -q -O- http://archive.getdeb.net/getdeb-archive.key | sudo apt-key add -
 
 # getdeb / playdeb
-deb http://archive.getdeb.net/ubuntu vivid-getdeb apps games
-deb http://archive.getdeb.net/ubuntu vivid-getdeb-testing apps games
+deb http://archive.getdeb.net/ubuntu wily-getdeb apps games
+deb http://archive.getdeb.net/ubuntu wily-getdeb-testing apps games
 
 
 # GetDeb/PlayDeb Mirrors
-# deb http://mirrors.dotsrc.org/getdeb/ubuntu vivid-getdeb apps games
-# deb http://mirrors.dotsrc.org/getdeb/ubuntu vivid-getdeb-testing apps games
+# deb http://mirrors.dotsrc.org/getdeb/ubuntu wily-getdeb apps games
+# deb http://mirrors.dotsrc.org/getdeb/ubuntu wily-getdeb-testing apps games
 
