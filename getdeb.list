@@ -1,11 +1,10 @@
 # Key: wget -q -O- http://archive.getdeb.net/getdeb-archive.key | sudo apt-key add -
 
 # getdeb / playdeb
-deb http://archive.getdeb.net/ubuntu xenial-getdeb apps games
-deb http://archive.getdeb.net/ubuntu xenial-getdeb-testing apps games
+deb http://archive.getdeb.net/ubuntu yakkety-getdeb apps games
+deb http://archive.getdeb.net/ubuntu yakkety-getdeb-testing apps games
 
 
 # GetDeb/PlayDeb Mirrors
-# deb http://mirrors.dotsrc.org/getdeb/ubuntu xenial-getdeb apps games
-# deb http://mirrors.dotsrc.org/getdeb/ubuntu xenial-getdeb-testing apps games
-
+# deb http://mirrors.dotsrc.org/getdeb/ubuntu yakkety-getdeb apps games
+# deb http://mirrors.dotsrc.org/getdeb/ubuntu yakkety-getdeb-testing apps games
