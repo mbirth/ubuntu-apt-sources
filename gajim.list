@@ -1,0 +1,3 @@
+# Key: gajim-dev-keyring
+# Or: sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 9A569BF2B79EE905
+deb ftp://ftp.gajim.org/debian unstable main
