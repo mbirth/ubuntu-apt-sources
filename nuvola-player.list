@@ -1,3 +1,3 @@
 # apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 40554B8FA5FE6F6A
-deb https://tiliado.eu/nuvolaplayer/repository/deb/ yakkety stable beta
+deb https://tiliado.eu/nuvolaplayer/repository/deb/ zesty stable beta
 
