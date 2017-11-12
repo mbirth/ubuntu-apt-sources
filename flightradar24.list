@@ -1,0 +1,2 @@
+# sudo apt-key adv --keyserver pgp.mit.edu --recv-keys 40c430f5
+deb http://repo.feed.flightradar24.com flightradar24 raspberrypi-beta raspberrypi-stable
