@@ -5,3 +5,4 @@
 deb https://packagecloud.io/github/git-lfs/ubuntu/ zesty main
 # deb-src https://packagecloud.io/github/git-lfs/ubuntu/ zesty main
 
+deb https://packagecloud.io/github/git-lfs/ubuntu/ artful main
