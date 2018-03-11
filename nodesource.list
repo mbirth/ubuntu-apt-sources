@@ -1,8 +1,8 @@
 # curl --silent https://deb.nodesource.com/gpgkey/nodesource.gpg.key | sudo apt-key add -
 deb https://deb.nodesource.com/node_4.x artful main
 # deb-src https://deb.nodesource.com/node_4.x artful main
-deb https://deb.nodesource.com/node_6.x artful main
+deb https://deb.nodesource.com/node_6.x bionic main
 deb https://deb.nodesource.com/node_7.x zesty main
-deb https://deb.nodesource.com/node_8.x artful main
-deb https://deb.nodesource.com/node_9.x artful main
+deb https://deb.nodesource.com/node_8.x bionic main
+deb https://deb.nodesource.com/node_9.x bionic main
 
