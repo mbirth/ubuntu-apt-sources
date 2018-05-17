@@ -1,3 +1,2 @@
-deb http://ppa.launchpad.net/numix/ppa/ubuntu artful main
 deb http://ppa.launchpad.net/numix/ppa/ubuntu bionic main
 # deb-src http://ppa.launchpad.net/numix/ppa/ubuntu bionic main
