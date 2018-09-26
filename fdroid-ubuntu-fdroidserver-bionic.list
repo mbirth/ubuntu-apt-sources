@@ -1,2 +1,3 @@
+# F-Droid repository tools
 deb http://ppa.launchpad.net/fdroid/fdroidserver/ubuntu bionic main
 # deb-src http://ppa.launchpad.net/fdroid/fdroidserver/ubuntu bionic main

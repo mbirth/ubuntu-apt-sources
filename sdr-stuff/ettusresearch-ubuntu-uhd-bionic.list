@@ -1,2 +1,3 @@
+# Universal Hardware Driver for SDR purposes
 deb http://ppa.launchpad.net/ettusresearch/uhd/ubuntu bionic main
 # deb-src http://ppa.launchpad.net/ettusresearch/uhd/ubuntu bionic main
