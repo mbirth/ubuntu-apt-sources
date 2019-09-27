@@ -2,6 +2,6 @@
 # the repository at https://packagecloud.io/github/git-lfs
 # curl -L https://packagecloud.io/github/git-lfs/gpgkey | sudo apt-key add -
 
-deb https://packagecloud.io/github/git-lfs/ubuntu/ bionic main
-# deb-src https://packagecloud.io/github/git-lfs/ubuntu/ bionic main
+deb https://packagecloud.io/github/git-lfs/ubuntu/ disco main
+# deb-src https://packagecloud.io/github/git-lfs/ubuntu/ disco main
 
