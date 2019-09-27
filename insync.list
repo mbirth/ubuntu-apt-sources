@@ -1,3 +1,0 @@
-# sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ACCAF35C
-deb http://apt.insynchq.com/ubuntu bionic non-free contrib
-
