@@ -1,4 +1,4 @@
 # curl https://mkvtoolnix.download/gpg-pub-moritzbunkus.txt | sudo apt-key add -
-deb https://mkvtoolnix.download/ubuntu/ cosmic main
-# deb-src https://mkvtoolnix.download/ubuntu/ cosmic main
+deb https://mkvtoolnix.download/ubuntu/ disco main
+# deb-src https://mkvtoolnix.download/ubuntu/ disco main
 
