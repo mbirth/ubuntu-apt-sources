@@ -1,0 +1,3 @@
+deb http://ppa.launchpad.net/otter-browser/weekly/ubuntu disco main
+deb http://ppa.launchpad.net/otter-browser/release/ubuntu disco main
+# deb-src http://ppa.launchpad.net/otter-browser/release/ubuntu disco main

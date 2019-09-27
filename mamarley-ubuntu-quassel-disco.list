@@ -1,0 +1,3 @@
+# Quassel IRC client
+deb http://ppa.launchpad.net/mamarley/quassel/ubuntu disco main
+# deb-src http://ppa.launchpad.net/mamarley/quassel/ubuntu disco main

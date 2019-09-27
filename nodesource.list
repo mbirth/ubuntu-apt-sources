@@ -1,3 +1,3 @@
 # curl --silent https://deb.nodesource.com/gpgkey/nodesource.gpg.key | sudo apt-key add -
-deb https://deb.nodesource.com/node_10.x bionic main
-# deb-src https://deb.nodesource.com/node_10.x bionic main
+deb https://deb.nodesource.com/node_10.x disco main
+# deb-src https://deb.nodesource.com/node_10.x disco main
