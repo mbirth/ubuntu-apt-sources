@@ -1,0 +1,3 @@
+# curl https://download.opensuse.org/repositories/network:/retroshare/xUbuntu_19.04/Release.key | sudo apt-key add -
+deb https://download.opensuse.org/repositories/network:/retroshare/xUbuntu_19.04/ ./
+
